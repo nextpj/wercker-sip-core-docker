@@ -106,6 +106,6 @@ run yum install -y httpd-devel apr-devel
 run yum install -y perl-DateTime-Format-DateParse python-pymongo python-pymongo-gridfs
 
 # sipxviewer 
-ryn yum install -y java-devel
+run yum install -y java-devel
 
 
